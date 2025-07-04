@@ -1,0 +1,5691 @@
+[
+  {
+    "inputSequence": {
+      "header": "24BG107164_S12_L001_001 posreads: 50; cutoff: 0.1; mixrate: 0.02",
+      "SHA512": "516d8da2b744afbe01023e48689f46016b290842f46e6e2aa6d3d3880ad2af8bfdd1a498cb320bde71d2d23ca33910365c0d60ea10b0a687ca3099aba419083d"
+    },
+    "subtypeText": "",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 99,
+        "gene": {
+          "name": "PR",
+          "length": null
+        },
+        "mutations": [
+          {
+            "consensus": "W",
+            "position": 6,
+            "AAs": "W*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": true,
+            "isSDRM": false,
+            "hasStop": true,
+            "primaryType": "Other",
+            "text": "W6*W"
+          },
+          {
+            "consensus": "E",
+            "position": 21,
+            "AAs": "KE",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E21KE"
+          },
+          {
+            "consensus": "N",
+            "position": 37,
+            "AAs": "S",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N37S"
+          },
+          {
+            "consensus": "D",
+            "position": 60,
+            "AAs": "ND",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D60ND"
+          },
+          {
+            "consensus": "E",
+            "position": 65,
+            "AAs": "KE",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E65KE"
+          },
+          {
+            "consensus": "G",
+            "position": 78,
+            "AAs": "RG",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G78RG"
+          }
+        ],
+        "SDRMs": []
+      },
+      {
+        "firstAA": 1,
+        "lastAA": 560,
+        "gene": {
+          "name": "RT",
+          "length": null
+        },
+        "mutations": [
+          {
+            "consensus": "E",
+            "position": 6,
+            "AAs": "D",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E6D"
+          },
+          {
+            "consensus": "E",
+            "position": 40,
+            "AAs": "F",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "NRTI",
+            "text": "E40F"
+          },
+          {
+            "consensus": "M",
+            "position": 41,
+            "AAs": "L",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": true,
+            "hasStop": false,
+            "primaryType": "NRTI",
+            "text": "M41L"
+          },
+          {
+            "consensus": "K",
+            "position": 43,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K43E"
+          },
+          {
+            "consensus": "M",
+            "position": 184,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": true,
+            "hasStop": false,
+            "primaryType": "NRTI",
+            "text": "M184V"
+          },
+          {
+            "consensus": "T",
+            "position": 200,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T200I"
+          },
+          {
+            "consensus": "L",
+            "position": 210,
+            "AAs": "W",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": true,
+            "hasStop": false,
+            "primaryType": "NRTI",
+            "text": "L210W"
+          },
+          {
+            "consensus": "R",
+            "position": 211,
+            "AAs": "K",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R211K"
+          },
+          {
+            "consensus": "T",
+            "position": 215,
+            "AAs": "Y",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": true,
+            "hasStop": false,
+            "primaryType": "NRTI",
+            "text": "T215Y"
+          },
+          {
+            "consensus": "V",
+            "position": 245,
+            "AAs": "T",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V245T"
+          },
+          {
+            "consensus": "E",
+            "position": 248,
+            "AAs": "D",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E248D"
+          },
+          {
+            "consensus": "A",
+            "position": 272,
+            "AAs": "P",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A272P"
+          },
+          {
+            "consensus": "K",
+            "position": 277,
+            "AAs": "R",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K277R"
+          },
+          {
+            "consensus": "L",
+            "position": 325,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L325X"
+          },
+          {
+            "consensus": "I",
+            "position": 326,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I326X"
+          },
+          {
+            "consensus": "A",
+            "position": 327,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A327X"
+          },
+          {
+            "consensus": "E",
+            "position": 328,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E328X"
+          },
+          {
+            "consensus": "I",
+            "position": 329,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I329X"
+          },
+          {
+            "consensus": "Q",
+            "position": 330,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q330X"
+          },
+          {
+            "consensus": "K",
+            "position": 331,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K331X"
+          },
+          {
+            "consensus": "Q",
+            "position": 332,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q332X"
+          },
+          {
+            "consensus": "G",
+            "position": 333,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G333X"
+          },
+          {
+            "consensus": "Q",
+            "position": 334,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q334X"
+          },
+          {
+            "consensus": "G",
+            "position": 335,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G335X"
+          },
+          {
+            "consensus": "Q",
+            "position": 336,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q336X"
+          },
+          {
+            "consensus": "W",
+            "position": 337,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W337X"
+          },
+          {
+            "consensus": "T",
+            "position": 338,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T338X"
+          },
+          {
+            "consensus": "Y",
+            "position": 339,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y339X"
+          },
+          {
+            "consensus": "Q",
+            "position": 340,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q340X"
+          },
+          {
+            "consensus": "I",
+            "position": 341,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I341X"
+          },
+          {
+            "consensus": "Y",
+            "position": 342,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y342X"
+          },
+          {
+            "consensus": "Q",
+            "position": 343,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q343X"
+          },
+          {
+            "consensus": "E",
+            "position": 344,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E344X"
+          },
+          {
+            "consensus": "P",
+            "position": 345,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P345X"
+          },
+          {
+            "consensus": "F",
+            "position": 346,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "F346X"
+          },
+          {
+            "consensus": "K",
+            "position": 347,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K347X"
+          },
+          {
+            "consensus": "N",
+            "position": 348,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N348X"
+          },
+          {
+            "consensus": "L",
+            "position": 349,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L349X"
+          },
+          {
+            "consensus": "K",
+            "position": 350,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K350X"
+          },
+          {
+            "consensus": "T",
+            "position": 351,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T351X"
+          },
+          {
+            "consensus": "G",
+            "position": 352,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G352X"
+          },
+          {
+            "consensus": "K",
+            "position": 353,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K353X"
+          },
+          {
+            "consensus": "Y",
+            "position": 354,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y354X"
+          },
+          {
+            "consensus": "A",
+            "position": 355,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A355X"
+          },
+          {
+            "consensus": "R",
+            "position": 356,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R356X"
+          },
+          {
+            "consensus": "M",
+            "position": 357,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "M357X"
+          },
+          {
+            "consensus": "R",
+            "position": 358,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R358X"
+          },
+          {
+            "consensus": "G",
+            "position": 359,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G359X"
+          },
+          {
+            "consensus": "A",
+            "position": 360,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A360X"
+          },
+          {
+            "consensus": "H",
+            "position": 361,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "H361X"
+          },
+          {
+            "consensus": "T",
+            "position": 362,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T362X"
+          },
+          {
+            "consensus": "N",
+            "position": 363,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N363X"
+          },
+          {
+            "consensus": "D",
+            "position": 364,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D364X"
+          },
+          {
+            "consensus": "V",
+            "position": 365,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V365X"
+          },
+          {
+            "consensus": "K",
+            "position": 366,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K366X"
+          },
+          {
+            "consensus": "Q",
+            "position": 367,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q367X"
+          },
+          {
+            "consensus": "L",
+            "position": 368,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L368X"
+          },
+          {
+            "consensus": "T",
+            "position": 369,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T369X"
+          },
+          {
+            "consensus": "E",
+            "position": 370,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E370X"
+          },
+          {
+            "consensus": "A",
+            "position": 371,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A371X"
+          },
+          {
+            "consensus": "V",
+            "position": 372,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V372X"
+          },
+          {
+            "consensus": "Q",
+            "position": 373,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q373X"
+          },
+          {
+            "consensus": "K",
+            "position": 374,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K374X"
+          },
+          {
+            "consensus": "I",
+            "position": 375,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I375X"
+          },
+          {
+            "consensus": "A",
+            "position": 376,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A376X"
+          },
+          {
+            "consensus": "T",
+            "position": 377,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T377X"
+          },
+          {
+            "consensus": "E",
+            "position": 378,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E378X"
+          },
+          {
+            "consensus": "S",
+            "position": 379,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S379X"
+          },
+          {
+            "consensus": "I",
+            "position": 380,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I380X"
+          },
+          {
+            "consensus": "V",
+            "position": 381,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V381X"
+          },
+          {
+            "consensus": "I",
+            "position": 382,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I382X"
+          },
+          {
+            "consensus": "W",
+            "position": 383,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W383X"
+          },
+          {
+            "consensus": "G",
+            "position": 384,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G384X"
+          },
+          {
+            "consensus": "K",
+            "position": 385,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K385X"
+          },
+          {
+            "consensus": "T",
+            "position": 386,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T386X"
+          },
+          {
+            "consensus": "P",
+            "position": 387,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P387X"
+          },
+          {
+            "consensus": "K",
+            "position": 388,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K388X"
+          },
+          {
+            "consensus": "F",
+            "position": 389,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "F389X"
+          },
+          {
+            "consensus": "K",
+            "position": 390,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K390X"
+          },
+          {
+            "consensus": "L",
+            "position": 391,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L391X"
+          },
+          {
+            "consensus": "P",
+            "position": 392,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P392X"
+          },
+          {
+            "consensus": "I",
+            "position": 393,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I393X"
+          },
+          {
+            "consensus": "Q",
+            "position": 394,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q394X"
+          },
+          {
+            "consensus": "K",
+            "position": 395,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K395X"
+          },
+          {
+            "consensus": "E",
+            "position": 396,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E396X"
+          },
+          {
+            "consensus": "T",
+            "position": 397,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T397X"
+          },
+          {
+            "consensus": "W",
+            "position": 398,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W398X"
+          },
+          {
+            "consensus": "E",
+            "position": 399,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E399X"
+          },
+          {
+            "consensus": "A",
+            "position": 400,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A400X"
+          },
+          {
+            "consensus": "W",
+            "position": 401,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W401X"
+          },
+          {
+            "consensus": "W",
+            "position": 402,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W402X"
+          },
+          {
+            "consensus": "T",
+            "position": 403,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T403X"
+          },
+          {
+            "consensus": "E",
+            "position": 404,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E404X"
+          },
+          {
+            "consensus": "Y",
+            "position": 405,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y405X"
+          },
+          {
+            "consensus": "W",
+            "position": 406,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W406X"
+          },
+          {
+            "consensus": "Q",
+            "position": 407,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q407X"
+          },
+          {
+            "consensus": "A",
+            "position": 408,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A408X"
+          },
+          {
+            "consensus": "T",
+            "position": 409,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T409X"
+          },
+          {
+            "consensus": "W",
+            "position": 410,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W410X"
+          },
+          {
+            "consensus": "I",
+            "position": 411,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I411X"
+          },
+          {
+            "consensus": "P",
+            "position": 412,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P412X"
+          },
+          {
+            "consensus": "E",
+            "position": 413,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E413X"
+          },
+          {
+            "consensus": "W",
+            "position": 414,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W414X"
+          },
+          {
+            "consensus": "E",
+            "position": 415,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E415X"
+          },
+          {
+            "consensus": "F",
+            "position": 416,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "F416X"
+          },
+          {
+            "consensus": "V",
+            "position": 417,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V417X"
+          },
+          {
+            "consensus": "N",
+            "position": 418,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N418X"
+          },
+          {
+            "consensus": "T",
+            "position": 419,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T419X"
+          },
+          {
+            "consensus": "P",
+            "position": 420,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P420X"
+          },
+          {
+            "consensus": "P",
+            "position": 421,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P421X"
+          },
+          {
+            "consensus": "L",
+            "position": 422,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L422X"
+          },
+          {
+            "consensus": "V",
+            "position": 423,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V423X"
+          },
+          {
+            "consensus": "K",
+            "position": 424,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K424X"
+          },
+          {
+            "consensus": "L",
+            "position": 425,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L425X"
+          },
+          {
+            "consensus": "W",
+            "position": 426,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W426X"
+          },
+          {
+            "consensus": "Y",
+            "position": 427,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y427X"
+          },
+          {
+            "consensus": "Q",
+            "position": 428,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q428X"
+          },
+          {
+            "consensus": "L",
+            "position": 429,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L429X"
+          },
+          {
+            "consensus": "E",
+            "position": 430,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E430X"
+          },
+          {
+            "consensus": "K",
+            "position": 431,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K431X"
+          },
+          {
+            "consensus": "E",
+            "position": 432,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E432X"
+          },
+          {
+            "consensus": "P",
+            "position": 433,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P433X"
+          },
+          {
+            "consensus": "I",
+            "position": 434,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I434X"
+          },
+          {
+            "consensus": "V",
+            "position": 435,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V435X"
+          },
+          {
+            "consensus": "G",
+            "position": 436,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G436X"
+          },
+          {
+            "consensus": "A",
+            "position": 437,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A437X"
+          },
+          {
+            "consensus": "E",
+            "position": 438,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E438X"
+          },
+          {
+            "consensus": "T",
+            "position": 439,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T439X"
+          },
+          {
+            "consensus": "F",
+            "position": 440,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "F440X"
+          },
+          {
+            "consensus": "Y",
+            "position": 441,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y441X"
+          },
+          {
+            "consensus": "V",
+            "position": 442,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V442X"
+          },
+          {
+            "consensus": "D",
+            "position": 443,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D443X"
+          },
+          {
+            "consensus": "G",
+            "position": 444,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G444X"
+          },
+          {
+            "consensus": "A",
+            "position": 445,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A445X"
+          },
+          {
+            "consensus": "A",
+            "position": 446,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A446X"
+          },
+          {
+            "consensus": "N",
+            "position": 447,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N447X"
+          },
+          {
+            "consensus": "R",
+            "position": 448,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R448X"
+          },
+          {
+            "consensus": "E",
+            "position": 449,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E449X"
+          },
+          {
+            "consensus": "T",
+            "position": 450,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T450X"
+          },
+          {
+            "consensus": "K",
+            "position": 451,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K451X"
+          },
+          {
+            "consensus": "L",
+            "position": 452,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L452X"
+          },
+          {
+            "consensus": "G",
+            "position": 453,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G453X"
+          },
+          {
+            "consensus": "K",
+            "position": 454,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K454X"
+          },
+          {
+            "consensus": "A",
+            "position": 455,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A455X"
+          },
+          {
+            "consensus": "G",
+            "position": 456,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G456X"
+          },
+          {
+            "consensus": "Y",
+            "position": 457,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y457X"
+          },
+          {
+            "consensus": "V",
+            "position": 458,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V458X"
+          },
+          {
+            "consensus": "T",
+            "position": 459,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T459X"
+          },
+          {
+            "consensus": "D",
+            "position": 460,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D460X"
+          },
+          {
+            "consensus": "R",
+            "position": 461,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R461X"
+          },
+          {
+            "consensus": "G",
+            "position": 462,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G462X"
+          },
+          {
+            "consensus": "R",
+            "position": 463,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R463X"
+          },
+          {
+            "consensus": "Q",
+            "position": 464,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q464X"
+          },
+          {
+            "consensus": "K",
+            "position": 465,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K465X"
+          },
+          {
+            "consensus": "V",
+            "position": 466,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V466X"
+          },
+          {
+            "consensus": "V",
+            "position": 467,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V467X"
+          },
+          {
+            "consensus": "S",
+            "position": 468,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S468X"
+          },
+          {
+            "consensus": "L",
+            "position": 469,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L469X"
+          },
+          {
+            "consensus": "T",
+            "position": 470,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T470X"
+          },
+          {
+            "consensus": "D",
+            "position": 471,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D471X"
+          },
+          {
+            "consensus": "T",
+            "position": 472,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T472X"
+          },
+          {
+            "consensus": "T",
+            "position": 473,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T473X"
+          },
+          {
+            "consensus": "N",
+            "position": 474,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N474X"
+          },
+          {
+            "consensus": "Q",
+            "position": 475,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q475X"
+          },
+          {
+            "consensus": "K",
+            "position": 476,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K476X"
+          },
+          {
+            "consensus": "T",
+            "position": 477,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T477X"
+          },
+          {
+            "consensus": "E",
+            "position": 478,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E478X"
+          },
+          {
+            "consensus": "L",
+            "position": 479,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L479X"
+          },
+          {
+            "consensus": "Q",
+            "position": 480,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q480X"
+          },
+          {
+            "consensus": "A",
+            "position": 481,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A481X"
+          },
+          {
+            "consensus": "I",
+            "position": 482,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I482X"
+          },
+          {
+            "consensus": "H",
+            "position": 483,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "H483X"
+          },
+          {
+            "consensus": "L",
+            "position": 484,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L484X"
+          },
+          {
+            "consensus": "A",
+            "position": 485,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A485X"
+          },
+          {
+            "consensus": "L",
+            "position": 486,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L486X"
+          },
+          {
+            "consensus": "Q",
+            "position": 487,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q487X"
+          },
+          {
+            "consensus": "D",
+            "position": 488,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D488X"
+          },
+          {
+            "consensus": "S",
+            "position": 489,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S489X"
+          },
+          {
+            "consensus": "G",
+            "position": 490,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G490X"
+          },
+          {
+            "consensus": "L",
+            "position": 491,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L491X"
+          },
+          {
+            "consensus": "E",
+            "position": 492,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E492X"
+          },
+          {
+            "consensus": "V",
+            "position": 493,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V493X"
+          },
+          {
+            "consensus": "N",
+            "position": 494,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N494X"
+          },
+          {
+            "consensus": "I",
+            "position": 495,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I495X"
+          },
+          {
+            "consensus": "V",
+            "position": 496,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V496X"
+          },
+          {
+            "consensus": "T",
+            "position": 497,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T497X"
+          },
+          {
+            "consensus": "D",
+            "position": 498,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D498X"
+          },
+          {
+            "consensus": "S",
+            "position": 499,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S499X"
+          },
+          {
+            "consensus": "Q",
+            "position": 500,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q500X"
+          },
+          {
+            "consensus": "Y",
+            "position": 501,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y501X"
+          },
+          {
+            "consensus": "A",
+            "position": 502,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A502X"
+          },
+          {
+            "consensus": "L",
+            "position": 503,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L503X"
+          },
+          {
+            "consensus": "G",
+            "position": 504,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G504X"
+          },
+          {
+            "consensus": "I",
+            "position": 505,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I505X"
+          },
+          {
+            "consensus": "I",
+            "position": 506,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I506X"
+          },
+          {
+            "consensus": "Q",
+            "position": 507,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q507X"
+          },
+          {
+            "consensus": "A",
+            "position": 508,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A508X"
+          },
+          {
+            "consensus": "Q",
+            "position": 509,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q509X"
+          },
+          {
+            "consensus": "P",
+            "position": 510,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P510X"
+          },
+          {
+            "consensus": "D",
+            "position": 511,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D511X"
+          },
+          {
+            "consensus": "K",
+            "position": 512,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K512X"
+          },
+          {
+            "consensus": "S",
+            "position": 513,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S513X"
+          },
+          {
+            "consensus": "E",
+            "position": 514,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E514X"
+          },
+          {
+            "consensus": "S",
+            "position": 515,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S515X"
+          },
+          {
+            "consensus": "E",
+            "position": 516,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E516X"
+          },
+          {
+            "consensus": "L",
+            "position": 517,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L517X"
+          },
+          {
+            "consensus": "V",
+            "position": 518,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V518X"
+          },
+          {
+            "consensus": "S",
+            "position": 519,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S519X"
+          },
+          {
+            "consensus": "Q",
+            "position": 520,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q520X"
+          },
+          {
+            "consensus": "I",
+            "position": 521,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I521X"
+          },
+          {
+            "consensus": "I",
+            "position": 522,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I522X"
+          },
+          {
+            "consensus": "E",
+            "position": 523,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E523X"
+          },
+          {
+            "consensus": "Q",
+            "position": 524,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q524X"
+          },
+          {
+            "consensus": "L",
+            "position": 525,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L525X"
+          },
+          {
+            "consensus": "I",
+            "position": 526,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I526X"
+          },
+          {
+            "consensus": "K",
+            "position": 527,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K527X"
+          },
+          {
+            "consensus": "K",
+            "position": 528,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K528X"
+          },
+          {
+            "consensus": "E",
+            "position": 529,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E529X"
+          },
+          {
+            "consensus": "K",
+            "position": 530,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K530X"
+          },
+          {
+            "consensus": "V",
+            "position": 531,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V531X"
+          },
+          {
+            "consensus": "Y",
+            "position": 532,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y532X"
+          },
+          {
+            "consensus": "L",
+            "position": 533,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L533X"
+          },
+          {
+            "consensus": "A",
+            "position": 534,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A534X"
+          },
+          {
+            "consensus": "W",
+            "position": 535,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W535X"
+          },
+          {
+            "consensus": "V",
+            "position": 536,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V536X"
+          },
+          {
+            "consensus": "P",
+            "position": 537,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P537X"
+          },
+          {
+            "consensus": "A",
+            "position": 538,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A538X"
+          },
+          {
+            "consensus": "H",
+            "position": 539,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "H539X"
+          },
+          {
+            "consensus": "K",
+            "position": 540,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K540X"
+          },
+          {
+            "consensus": "G",
+            "position": 541,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G541X"
+          },
+          {
+            "consensus": "I",
+            "position": 542,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I542X"
+          },
+          {
+            "consensus": "G",
+            "position": 543,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G543X"
+          },
+          {
+            "consensus": "G",
+            "position": 544,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G544X"
+          },
+          {
+            "consensus": "N",
+            "position": 545,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N545X"
+          },
+          {
+            "consensus": "E",
+            "position": 546,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E546X"
+          },
+          {
+            "consensus": "Q",
+            "position": 547,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q547X"
+          },
+          {
+            "consensus": "V",
+            "position": 548,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V548X"
+          },
+          {
+            "consensus": "D",
+            "position": 549,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D549X"
+          },
+          {
+            "consensus": "K",
+            "position": 550,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K550X"
+          },
+          {
+            "consensus": "L",
+            "position": 551,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L551X"
+          },
+          {
+            "consensus": "V",
+            "position": 552,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V552X"
+          },
+          {
+            "consensus": "S",
+            "position": 553,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S553X"
+          },
+          {
+            "consensus": "A",
+            "position": 554,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A554X"
+          },
+          {
+            "consensus": "G",
+            "position": 555,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G555X"
+          },
+          {
+            "consensus": "I",
+            "position": 556,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I556X"
+          },
+          {
+            "consensus": "R",
+            "position": 557,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R557X"
+          },
+          {
+            "consensus": "K",
+            "position": 558,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K558X"
+          },
+          {
+            "consensus": "V",
+            "position": 559,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V559X"
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "M41L"
+          },
+          {
+            "text": "M184V"
+          },
+          {
+            "text": "L210W"
+          },
+          {
+            "text": "T215Y"
+          }
+        ]
+      },
+      {
+        "firstAA": 1,
+        "lastAA": 289,
+        "gene": {
+          "name": "IN",
+          "length": null
+        },
+        "mutations": [
+          {
+            "consensus": "F",
+            "position": 1,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "F1X"
+          },
+          {
+            "consensus": "L",
+            "position": 2,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L2X"
+          },
+          {
+            "consensus": "D",
+            "position": 3,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D3X"
+          },
+          {
+            "consensus": "G",
+            "position": 4,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "G4X"
+          },
+          {
+            "consensus": "I",
+            "position": 5,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I5X"
+          },
+          {
+            "consensus": "D",
+            "position": 6,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D6X"
+          },
+          {
+            "consensus": "K",
+            "position": 7,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K7X"
+          },
+          {
+            "consensus": "A",
+            "position": 8,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A8X"
+          },
+          {
+            "consensus": "Q",
+            "position": 9,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Q9X"
+          },
+          {
+            "consensus": "E",
+            "position": 10,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E10X"
+          },
+          {
+            "consensus": "E",
+            "position": 11,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E11X"
+          },
+          {
+            "consensus": "H",
+            "position": 12,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "H12X"
+          },
+          {
+            "consensus": "E",
+            "position": 13,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E13X"
+          },
+          {
+            "consensus": "K",
+            "position": 14,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K14X"
+          },
+          {
+            "consensus": "Y",
+            "position": 15,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "Y15X"
+          },
+          {
+            "consensus": "H",
+            "position": 16,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "H16X"
+          },
+          {
+            "consensus": "S",
+            "position": 17,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S17X"
+          },
+          {
+            "consensus": "N",
+            "position": 18,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N18X"
+          },
+          {
+            "consensus": "W",
+            "position": 19,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "W19X"
+          },
+          {
+            "consensus": "R",
+            "position": 20,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "R20X"
+          },
+          {
+            "consensus": "A",
+            "position": 21,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A21X"
+          },
+          {
+            "consensus": "M",
+            "position": 22,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "M22X"
+          },
+          {
+            "consensus": "A",
+            "position": 23,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A23X"
+          },
+          {
+            "consensus": "S",
+            "position": 24,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "S24X"
+          },
+          {
+            "consensus": "D",
+            "position": 25,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "D25X"
+          },
+          {
+            "consensus": "F",
+            "position": 26,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "F26X"
+          },
+          {
+            "consensus": "N",
+            "position": 27,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "N27X"
+          },
+          {
+            "consensus": "L",
+            "position": 28,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "L28X"
+          },
+          {
+            "consensus": "P",
+            "position": 29,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P29X"
+          },
+          {
+            "consensus": "P",
+            "position": 30,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "P30X"
+          },
+          {
+            "consensus": "V",
+            "position": 31,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V31X"
+          },
+          {
+            "consensus": "V",
+            "position": 32,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V32X"
+          },
+          {
+            "consensus": "A",
+            "position": 33,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "A33X"
+          },
+          {
+            "consensus": "K",
+            "position": 34,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "K34X"
+          },
+          {
+            "consensus": "E",
+            "position": 35,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": true,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "E35X"
+          },
+          {
+            "consensus": "I",
+            "position": 36,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I36X"
+          },
+          {
+            "consensus": "V",
+            "position": 37,
+            "AAs": "KNTRSIMQHPLEDAGVYCWF*",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "V37X"
+          },
+          {
+            "consensus": "I",
+            "position": 72,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "I72V"
+          },
+          {
+            "consensus": "T",
+            "position": 124,
+            "AAs": "A",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": false,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Other",
+            "text": "T124A"
+          },
+          {
+            "consensus": "D",
+            "position": 232,
+            "AAs": "N",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecMutation": false,
+            "isApobecDRM": true,
+            "isUnusual": false,
+            "isSDRM": false,
+            "hasStop": false,
+            "primaryType": "Accessory",
+            "text": "D232N"
+          }
+        ],
+        "SDRMs": []
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "9.8",
+          "publishDate": "2025-01-05"
+        },
+        "gene": {
+          "name": "PR"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "ATV",
+              "displayAbbr": "ATV/r"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "DRV",
+              "displayAbbr": "DRV/r"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "FPV",
+              "displayAbbr": "FPV/r"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "IDV",
+              "displayAbbr": "IDV/r"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "LPV",
+              "displayAbbr": "LPV/r"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "NFV",
+              "displayAbbr": "NFV"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "SQV",
+              "displayAbbr": "SQV/r"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "TPV",
+              "displayAbbr": "TPV/r"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          }
+        ]
+      },
+      {
+        "version": {
+          "text": "9.8",
+          "publishDate": "2025-01-05"
+        },
+        "gene": {
+          "name": "RT"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "ABC",
+              "displayAbbr": "ABC"
+            },
+            "score": 90,
+            "level": 5,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "E40F",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "E40F is a non-polymorphic accessory mutation selected by AZT and d4T. It usually occurs in combination with M41L, L210W and T215Y. In this context it is associated with reduced susceptibility to each of the NRTIs."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "AZT",
+              "displayAbbr": "AZT"
+            },
+            "score": 115,
+            "level": 5,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "E40F",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "E40F is a non-polymorphic accessory mutation selected by AZT and d4T. It usually occurs in combination with M41L, L210W and T215Y. In this context it is associated with reduced susceptibility to each of the NRTIs."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "D4T",
+              "displayAbbr": "D4T"
+            },
+            "score": 95,
+            "level": 5,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 40.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "E40F",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "E40F is a non-polymorphic accessory mutation selected by AZT and d4T. It usually occurs in combination with M41L, L210W and T215Y. In this context it is associated with reduced susceptibility to each of the NRTIs."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "DDI",
+              "displayAbbr": "DDI"
+            },
+            "score": 80,
+            "level": 5,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "E40F",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "E40F is a non-polymorphic accessory mutation selected by AZT and d4T. It usually occurs in combination with M41L, L210W and T215Y. In this context it is associated with reduced susceptibility to each of the NRTIs."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "FTC",
+              "displayAbbr": "FTC"
+            },
+            "score": 75,
+            "level": 5,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "LMV",
+              "displayAbbr": "3TC"
+            },
+            "score": 75,
+            "level": 5,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "TDF",
+              "displayAbbr": "TDF"
+            },
+            "score": 55,
+            "level": 4,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low/intermediate resistance to ABC (3-fold reduced susceptibility). M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT and TDF and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "E40F",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "E40F is a non-polymorphic accessory mutation selected by AZT and d4T. It usually occurs in combination with M41L, L210W and T215Y. In this context it is associated with reduced susceptibility to each of the NRTIs."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and intermediate resistance to ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F are TAMs that causes intermediate/high-level resistance to AZT and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "DOR",
+              "displayAbbr": "DOR"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "EFV",
+              "displayAbbr": "EFV"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "ETR",
+              "displayAbbr": "ETR"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "NVP",
+              "displayAbbr": "NVP"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "RPV",
+              "displayAbbr": "RPV"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "DPV",
+              "displayAbbr": "DPV"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          }
+        ]
+      },
+      {
+        "version": {
+          "text": "9.8",
+          "publishDate": "2025-01-05"
+        },
+        "gene": {
+          "name": "IN"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "INSTI"
+            },
+            "drug": {
+              "name": "BIC",
+              "displayAbbr": "BIC"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "INSTI"
+            },
+            "drug": {
+              "name": "CAB",
+              "displayAbbr": "CAB"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "INSTI"
+            },
+            "drug": {
+              "name": "DTG",
+              "displayAbbr": "DTG"
+            },
+            "score": 0,
+            "level": 1,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "INSTI"
+            },
+            "drug": {
+              "name": "EVG",
+              "displayAbbr": "EVG"
+            },
+            "score": 10,
+            "level": 2,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D232N",
+                    "primaryType": "INSTI",
+                    "comments": [
+                      {
+                        "type": "INSTI",
+                        "text": "D232N is a common nonpolymorphic accessory mutation selected in persons receiving RAL and EVG. Alone, it has little effect on INSTI susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "INSTI"
+            },
+            "drug": {
+              "name": "RAL",
+              "displayAbbr": "RAL"
+            },
+            "score": 10,
+            "level": 2,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D232N",
+                    "primaryType": "INSTI",
+                    "comments": [
+                      {
+                        "type": "INSTI",
+                        "text": "D232N is a common nonpolymorphic accessory mutation selected in persons receiving RAL and EVG. Alone, it has little effect on INSTI susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          }
+        ]
+      }
+    ]
+  }
+]
