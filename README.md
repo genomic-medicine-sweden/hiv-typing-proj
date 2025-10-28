@@ -4,6 +4,7 @@ This repository is used to track the planning and development of the HIV drug re
 
 ## Team
 - [Lili Andersson-Li](https://github.com/LilyAnderssonLee)
+- [Sarai Varona](https://github.com/svarona)
 - [Emilio Rudbeck](https://github.com/CEJ-R)
 - [Samuel Lampa](https://github.com/samuell)
 
